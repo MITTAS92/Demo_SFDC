@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>DemoController</members>
+		<members>FindDealerController</members>
+		<name>ApexClass</name>
+	</types>
+	<types>
+		<members>DemoPage</members>
+		<members>DevOpsTestPage</members>
+		<members>Internal_Demo</members>
+		<members>TestPage</members>
+		<name>ApexPage</name>
+	</types>
+	<version>46.0</version>
+</Package>
