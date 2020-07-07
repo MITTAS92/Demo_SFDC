@@ -16,7 +16,7 @@ public with sharing class FindDealerController{
     public boolean carloanOption {get;set;}
     public Boolean checkDealer{ get; set; }
     
-    //Constructor 
+    //Constructor of class
     public FindDealerController(){
     	//initiate with default values
     	dealerName = 'Dealer'; 
